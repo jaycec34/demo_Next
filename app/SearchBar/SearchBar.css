@@ -1,0 +1,14 @@
+.prodStyle {
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 100px;
+    padding: 1rem;
+    margin: 1rem;
+    justify-content: center; /* Center child elements horizontally */
+    align-items: center; /* Center child elements vertically */
+
+}
+
+.productText {
+    text-align: center;
+}
